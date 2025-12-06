@@ -2,8 +2,8 @@ import React from 'react'
 
 function page() {
   return (
-    <div>This is services  page</div>
+    <div>hello page</div>
   )
 }
 
-export default page;
+export default page
